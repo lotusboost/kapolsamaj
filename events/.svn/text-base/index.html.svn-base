@@ -1,0 +1,131 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN"
+   "http://www.w3.org/TR/html4/strict.dtd">
+
+<html lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<meta name="Description" content="Sinol Nasal Sprays for 100% Natural Allergy, Sinus and Headache relief. 5x faster than a pill or liquid without a prescription. No harmful side effects."> 
+  <meta name="Keywords" content="Sinol Nasal Spray, Allergy Relief, Sinus Relief, Sinusitis, Nasal Spray for fast Headache Relief, relieves congestion in minutes, prevents allergy symptoms, drains and cleans sinuses quickly, no harmful side effects, can be used liberally.">
+  
+	<title>Why use Sinol Nasal Sprays for Allergy, Sinus and Headache Relief?</title>
+
+  <link rel="stylesheet" href="/css/reset.css" type="text/css" media="all"/>
+  <link rel="stylesheet" href="/css/typography.css" type="text/css" media="all"/>
+  <link rel="stylesheet" href="/css/sinol.css" type="text/css" media="all"/>  
+  <link rel="stylesheet" href="/css/print.css" type="text/css" media="print"/>
+  <!--[if lte IE 7]>
+    <link rel="stylesheet" href="/css/ie.css" type="text/css" media="screen"/>
+  <![endif]-->
+
+</head>
+<body id="why">
+  <div id="wrapper">
+    <ul id="navigation-global">
+      <li id="branding-logo"><a href="/"><img src="/images/logo.jpg" width="100" height="65" alt="Sinol Nasal Sprays for 100% Natural Allergy, Sinus and Headache relief"></a></li>
+      <li class="selected"><a href="/why/">Why Sinol</a></li>
+      <li><a href="/buy/">Where to Buy</a></li>
+      <li><a href="/about/">About</a></li>
+      <br class="clear"/>
+    </ul>
+  
+    <ul id="navigation-breadcrumb">
+      <li><a href="/">Home</a></li>
+      <li>&gt;</li>
+      <li>Why Sinol</li>
+    </ul>
+  
+
+    <ul id="navigation-page">
+      <li class="first"><a href="#allergy">Allergy Relief</a></li>
+      <li><a href="#headache">Headache Relief</a></li>
+      <li><a href="#sinus">Sinus Relief</a></li>
+      <li><a href="#sinusitis">Sinusitis Relief</a></li>
+    </ul>
+    
+    <div id="content-main">  
+      <div id="allergy">
+        <p>Allergy</p>
+      </div>
+    
+      <div id="headache">
+        <p>Headache</p>
+      </div>
+    
+      <div id="sinus">
+        <p>Sinus</p>
+      </div>
+    
+      <div id="sinusitis">
+        <p>Sinusitis</p>
+      </div>
+    </div>
+  
+    <ul id="navigation-secondary">
+      <li>
+        <a href="/why/">Why Sinol</a>
+        <ul class="here">
+          <li><a href="#allergy">Allergy Relief</a></li>
+          <li><a href="#headache">Headache Relief</a></li>
+          <li><a href="#sinus">Sinus Relief</a></li>
+          <li><a href="#sinusitis">Sinusitis Relief</a></li>
+        </ul>
+      </li>
+      <li>
+        <a href="/buy/">Where to Buy</a>
+        <ul>
+          <li><a href="/buy/index.html#us">From Us</a></li>
+          <li><a href="/buy/index.html#retail">Retail</a></li>
+          <li><a href="/buy/index.html#distributors">Distributors</a></li>
+
+        </ul>
+      </li>
+      <li>
+        <a href="/about/">About</a>
+        <ul>
+          <li><a href="/about/index.html#testimonials">Testimonials</a></li>
+          <li><a href="/about/index.html#clinical">Clinical Studies</a></li>
+          <li><a href="/about/index.html#pregnancy">Pregnancy Use</a></li>
+          <li><a href="/about/index.html#faqs">FAQs</a></li>
+          <li><a href="/about/index.html#history">History</a></li>
+        </ul>
+      </li>
+      <li>
+        <a href="/contact/">Contact</a>
+        <ul>
+          <li><a href="/contact/index.html#email">Email</a></li>
+          <li><a href="/contact/index.html#phone">Phone</a></li>
+          <li><a href="/contact/index.html#fax">Fax</a></li>
+        </ul>
+      </li>
+      <br class="clear"/>
+    </ul>
+
+    <div id="siteinfo">
+      <p>&copy; Sinol USA Inc. All rights reserved</p>
+      <ul>
+        <li><a href="/terms.html">Terms of Use</a></li>
+        <li><a href="/privacy.html">Privacy Policy</a></li>
+      </ul>
+      <br class="clear"/>
+    </div>
+  </div>
+
+    <script src="/js/jquery-1.2.6.js" type="text/javascript" charset="utf-8"></script>
+    <script src="/js/jquery-ui-1.6b.js" type="text/javascript" charset="utf-8"></script>
+    <script src="/js/cornerz.js" type="text/javascript" charset="utf-8"></script>
+    <script src="/js/sinol.js" type="text/javascript" charset="utf-8"></script>
+
+  <!-- Google Analytics Code Start-->
+        <script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script>
+        <script type="text/javascript">
+        try {
+        var pageTracker = _gat._getTracker("UA-432110-6");
+        pageTracker._trackPageview();
+        } catch(err) {}</script>
+  <!-- Google Analytics Code End-->      
+
+  </body>
+</html>

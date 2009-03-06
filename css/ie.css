@@ -1,0 +1,31 @@
+#wrapper {
+    width: 65em;
+}
+#navigation-global li {
+    font-size: 1.6em;
+    width: 8.14em;
+}
+#navigation-global li#branding-logo a {
+    border: 0;
+    padding: 0.2em 0;
+}
+#home #content-main {
+    clear: both;
+    margin-top: 6em;
+}
+#navigation-page {
+    zoom: 1;
+}
+#navigation-secondary {
+    clear: both;
+    margin-top: 2.0em;
+}
+#siteinfo p {
+    padding-bottom: 1em;
+}
+#navigation-global br.clear {
+    line-height: 0;
+}
+#navigation-breadcrumb {
+    clear: both;
+}
